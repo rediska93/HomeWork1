@@ -1,0 +1,15 @@
+
+#p1{
+background-color: lightblue;
+color: tomato;
+padding: 40px;
+text-align: center;
+}
+#p2{
+   
+    font-size: 20px;
+    text-decoration:lightseagreen;
+    font-weight:lighter;
+    background-color: rgb(128, 0, 0,0.6);
+    color: green;
+}

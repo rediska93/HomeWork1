@@ -1,0 +1,19 @@
+body {
+    background-image: url(./Opel\ Vectra.jpg);
+    background-attachment: fixed;
+}
+.ben{
+    font-size:25px;
+    color: rgba(142, 250, 0, 0.979);
+    font-family: fantasy;
+}
+.diz{
+    font-size:25px;
+    color: rgba(0, 255, 34, 0.979);
+    font-family: fantasy;
+}
+.dv{
+    
+    color: rgba(112, 20, 20, 0.979);
+    font-family: fantasy;
+}

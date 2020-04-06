@@ -1,0 +1,16 @@
+body{
+    background-image: url(./Opel\ Vectra\ OPC.jpg);
+    background-attachment: fixed;
+}
+
+.ordinary{
+    font-size:25px;
+    color:red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.ao{
+    font-size: 20px;
+    color: rgb(255, 166, 0);
+}
+
